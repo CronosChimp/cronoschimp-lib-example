@@ -1,4 +1,4 @@
-# Cronos Chimp Lib Example
+# Cronos Chimp Utils Example
 
 This example showcases usage of the Cronos Chimp Lib
 

@@ -1,6 +1,6 @@
 import React, { useMemo, useEffect, useState } from 'react'
 import Web3 from 'web3'
-import { CronosChimps, Chimp } from 'cronoschimp-lib'
+import { CronosChimps, Chimp } from 'cronoschimp-utils'
 
 const Chimps = ({ account }: { account: string }) => {
   const web3 = useMemo(() => new Web3(window.ethereum), [])

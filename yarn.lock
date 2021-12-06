@@ -4009,10 +4009,10 @@ create-hmac@^1.1.0, create-hmac@^1.1.4, create-hmac@^1.1.7:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-cronoschimp-lib@^1.0.0:
+cronoschimp-utils@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/cronoschimp-lib/-/cronoschimp-lib-1.0.0.tgz#504f7f6eddf4af8ce5f83e6bf12e4cf66ced3e5a"
-  integrity sha512-Tixi3VhjhxcZgnODAmuQXv906NdgNvebxLwCRDOZOjiR9z9tIM8RxFSjWi1sXJdLuyx3EklBpgrZLD7DfX8GYQ==
+  resolved "https://registry.yarnpkg.com/cronoschimp-utils/-/cronoschimp-utils-1.0.0.tgz#05b8abb994ca1707b207e84d9178e3717c87f263"
+  integrity sha512-QxzFZmsAMfWxFZRrjTcGVWUDJtdrVM1DiGJCX0nwt0yLB7VuTq91gSLPMYMoOU/WHYt5V63X4ExObTOcyFYb9A==
   dependencies:
     "@types/node-fetch" "2"
     node-fetch "2"
